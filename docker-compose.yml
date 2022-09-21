@@ -79,6 +79,7 @@
 # 0.3                2017-10-09        minor fixes + public GIT push
 # 0.4                2019-08-14        creating of ssl certs now in prepare.sh
 #                                      simplified nginx startup commands
+# 0.5                2022-08-21        M
 ####################################################################################
 
 version: '2.0'
